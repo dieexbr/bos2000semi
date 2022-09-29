@@ -12,4 +12,4 @@ Matlab files:
 
 # Contact
 
-Please drop a message at dieexbr17@gmail.com should you have any question about this repository.
+Please send a message at dieexbr17@gmail.com should you have any question about this repository.
